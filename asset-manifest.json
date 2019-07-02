@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.690d4b2e.chunk.js",
-    "main.js.map": "/static/js/main.690d4b2e.chunk.js.map",
+    "main.js": "/static/js/main.3dbb101f.chunk.js",
+    "main.js.map": "/static/js/main.3dbb101f.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.643d4940.chunk.js": "/static/js/2.643d4940.chunk.js",
-    "static/js/2.643d4940.chunk.js.map": "/static/js/2.643d4940.chunk.js.map",
+    "static/js/2.f914d16a.chunk.js": "/static/js/2.f914d16a.chunk.js",
+    "static/js/2.f914d16a.chunk.js.map": "/static/js/2.f914d16a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d5b2939410b3ba08a0edd251b5b01a76.js": "/precache-manifest.d5b2939410b3ba08a0edd251b5b01a76.js",
+    "precache-manifest.e1dad965a3a6f04640a1cb15a96e77bc.js": "/precache-manifest.e1dad965a3a6f04640a1cb15a96e77bc.js",
     "service-worker.js": "/service-worker.js",
     "static/media/lacan.png": "/static/media/lacan.2abd0a0d.png"
   }
