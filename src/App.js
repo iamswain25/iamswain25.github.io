@@ -9,6 +9,27 @@ export default () => (
       year="2019"
       lists={[
         {
+          title: "Users United",
+          desc:
+            "Stop getting pawned for your personal data. Demand Facebook give you your fair share by joining the #FacebookBoycott. We're stronger, together.",
+          website: "usersunited"
+        },
+        {
+          title: "simplealgo",
+          desc: "Making React Component for simple algo operations.",
+          website: "simplealgo"
+        },
+        {
+          title: "parti blog",
+          desc: "basic blog with user, post, comment",
+          website: "parti-blog"
+        },
+        {
+          title: "mbti for others",
+          desc: "Questionairre for others' MBTI",
+          website: "https://localee.space/"
+        },
+        {
           title: "Localee",
           desc: "Tag Map based on geolocation",
           website:
@@ -17,18 +38,18 @@ export default () => (
         {
           title: "Govt-expenditure-2019",
           desc: "Tree map of K-govt 2019 Expenditure with D3.js",
-          website: "https://iamswain25.github.io/govt-expenditure-2019/"
+          website: "govt-expenditure-2019"
         },
         {
           title: "Cartido Expo",
           desc: "Crowdmapping mobile app with React Native, Expo, Firebase",
           website: "https://expo.io/@iamswain/cartido-expo"
-        },
-        {
-          title: "Cartido Frontend",
-          desc: "Crowdmapping mobile app generator with React, Firebase",
-          website: "private"
         }
+        // {
+        //   title: "Cartido Frontend",
+        //   desc: "Crowdmapping mobile app generator with React, Firebase",
+        //   website: "private"
+        // }
       ]}
     />
     <Year
@@ -37,12 +58,12 @@ export default () => (
         {
           title: "US Refugee",
           desc: "Total refugees settlement in States in 2002-2018 with D3.js",
-          website: "https://iamswain25.github.io/refugees/"
+          website: "refugees"
         },
         {
           title: "Morley's Miracle",
           desc: "Morley's trisector theorem",
-          website: "https://iamswain25.github.io/Morley-s-miracle/"
+          website: "Morley-s-miracle"
         },
         {
           title: "B2ber",
@@ -52,7 +73,7 @@ export default () => (
         {
           title: "Political Life",
           desc: "Translation project for a Communist's journal in 1994",
-          website: "https://iamswain25.github.io/political-life"
+          website: "political-life"
         },
         {
           title: "Giga Viewer",
@@ -72,7 +93,7 @@ export default () => (
         {
           title: "Eliga Fabric",
           desc: "signage layout drawer with Fabric.js",
-          website: "https://iamswain25.github.io/eliga_fabric/"
+          website: "eliga_fabric"
         }
       ]}
     />
